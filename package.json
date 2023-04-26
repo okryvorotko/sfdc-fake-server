@@ -1,0 +1,22 @@
+{
+  "name": "sfdc-fake-server",
+  "version": "1.0.0",
+  "main": "mock-sfdc-server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "express": "^4.18.2",
+    "mocha": "^10.2.0",
+    "superagent": "^8.0.9"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
